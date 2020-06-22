@@ -42,3 +42,6 @@ Lectures index (approximately):
   - Importing a pretrained model
   - Early stopping
   - Fine tuning
+
+  - Lesson 6:
+- - Übung für Git machen :-)
